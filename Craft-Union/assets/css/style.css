@@ -1,0 +1,122 @@
+.bg_color{
+	background: #FFFCF7;
+}
+.navbar-nav .nav-item .nav-link{
+	color: black;
+}
+.header-title h5{
+	font-size: 31px;
+	color: black;
+}
+.header-title h1{
+	font-size: 45px;
+	color: black;
+}
+.header-title .buttons .free_trails{
+	background: #8F6A40;
+}
+.header-title .buttons .demo{
+	border: 1px solid #8F6A40;
+	color: #8F6A40;
+}
+ .circle1{
+	font-size: 10px;
+	color: #8E693F;
+}
+.circles i{
+	font-size: 10px;
+}
+.login{
+	background: #8F6A40;
+	border-radius: 4px;
+	border: none;
+}
+.join{
+	border:1px solid #8F6A40;
+	border-radius:4px ;
+	color: #8F6A40;
+	background: white;
+}
+.header_image{
+	background: url(../images/header-bg.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.plans_title h2{
+	font-size: 30px;
+	color: black;
+}
+.year{
+	font-size: 35px;
+	color: #AB8052;
+}
+.plans_title p{
+	font-size: 35px;
+}
+.work_section h2{
+	color: black;
+}
+.work_section p{
+	text-align: justify;
+	font-size: 12px;
+}
+.work_section .row h2:hover{
+		color: #8E693F;
+}
+.work_section .row p:hover{
+	color: #8E693F;
+}
+.work_section .row .step:hover{
+	border-bottom: 1px solid #8E693F;
+}
+.testimonials_section h2{
+	color: black;
+}
+.testimonials_section .header img{
+	width: 90px;
+}
+.testimonials_section .row{
+	margin-top: -10px;
+	font-size: 12px;
+}
+.testimonials_section .row .user_name h2{
+	font-size: 17px;
+    margin-bottom: 0px;
+}
+.testimonials_section .row .high_security{
+	font-size: 12px;
+}
+.testimonials_section .row .hyfin{
+	font-size: 20px;
+}
+.testimonials_section .row .circles{
+	padding-left: 235px;
+}
+.testimonials_section .row .circles i{
+	    font-size: 8px;
+	    color: #DCDFE4;
+}
+.packages_section .packages_body .check{
+	color: #34AD77;
+}
+.packages_section .packages_body button{
+	border: 1px solid #8E693F;
+	border-radius: 4px;
+	background: white;
+	color: #8E693F;
+}
+.button: hover{
+	color: white;
+	background: #8E693F;
+}
+.packages_section .packages_body .card:hover{
+	transform: scale(1,1.06);
+	border: 1px solid #8E693F;
+}
+.last_part .paragraph{
+	font-size: 10px;
+}
+.last_part .links i{
+	font-size: 25px;
+	color: #8E693F;
+}
